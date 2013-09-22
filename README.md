@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
@@ -149,3 +150,9 @@ fetch the changes and merge them into your project with git.
 ## Contact
 
 For more information on AngularJS please check out http://angularjs.org/
+=======
+JsonAlter
+=========
+
+Helps to handle Json files
+>>>>>>> 36f38a70cc295a5c2cbeba08f355844a90cec8a6
